@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+    <string name="description">Hints: \n\u2022 Select/Deselect cells to generate pattern.\n\u2022 Tap on Play icon to Start/Stop the game.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

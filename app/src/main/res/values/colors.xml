@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cell">#FFFFFF</color>
+    <color name="line">#ababab</color>
+
+    <color name="colorPrimary">#6A1B9A</color>
+    <color name="colorPrimaryDark">#4A148C</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#6A1B9A</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#F50057</color>
+</resources>
